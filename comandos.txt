@@ -1,0 +1,8 @@
+// comando para criar tabela
+create table nome_da_tabela();
+
+// comando de ler todos os dados da tabela
+select * from nome_da_tabela;
+
+// comando para gravar dados
+insert into nome_da_tabela(atributos_da_tabela) values (valores_da_tabela)
